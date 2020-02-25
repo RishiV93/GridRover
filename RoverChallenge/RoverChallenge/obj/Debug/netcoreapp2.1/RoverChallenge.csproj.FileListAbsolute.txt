@@ -1,0 +1,11 @@
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallenge\bin\Debug\netcoreapp2.1\RoverChallenge.deps.json
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallenge\bin\Debug\netcoreapp2.1\RoverChallenge.runtimeconfig.json
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallenge\bin\Debug\netcoreapp2.1\RoverChallenge.runtimeconfig.dev.json
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallenge\bin\Debug\netcoreapp2.1\RoverChallenge.dll
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallenge\obj\Debug\netcoreapp2.1\RoverChallenge.csprojAssemblyReference.cache
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallenge\obj\Debug\netcoreapp2.1\RoverChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallenge\obj\Debug\netcoreapp2.1\RoverChallenge.AssemblyInfoInputs.cache
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallenge\obj\Debug\netcoreapp2.1\RoverChallenge.AssemblyInfo.cs
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallenge\bin\Debug\netcoreapp2.1\RoverChallenge.pdb
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallenge\obj\Debug\netcoreapp2.1\RoverChallenge.dll
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallenge\obj\Debug\netcoreapp2.1\RoverChallenge.pdb

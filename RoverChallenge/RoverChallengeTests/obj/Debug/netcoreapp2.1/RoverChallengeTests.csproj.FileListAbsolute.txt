@@ -1,0 +1,17 @@
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallengeTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallengeTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallengeTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallengeTests\bin\Debug\netcoreapp2.1\RoverChallengeTests.deps.json
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallengeTests\bin\Debug\netcoreapp2.1\RoverChallengeTests.runtimeconfig.json
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallengeTests\bin\Debug\netcoreapp2.1\RoverChallengeTests.runtimeconfig.dev.json
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallengeTests\bin\Debug\netcoreapp2.1\RoverChallengeTests.dll
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallengeTests\bin\Debug\netcoreapp2.1\RoverChallengeTests.pdb
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallengeTests\bin\Debug\netcoreapp2.1\RoverChallenge.dll
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallengeTests\bin\Debug\netcoreapp2.1\RoverChallenge.pdb
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallengeTests\obj\Debug\netcoreapp2.1\RoverChallengeTests.csprojAssemblyReference.cache
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallengeTests\obj\Debug\netcoreapp2.1\RoverChallengeTests.csproj.CoreCompileInputs.cache
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallengeTests\obj\Debug\netcoreapp2.1\RoverChallengeTests.AssemblyInfoInputs.cache
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallengeTests\obj\Debug\netcoreapp2.1\RoverChallengeTests.AssemblyInfo.cs
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallengeTests\obj\Debug\netcoreapp2.1\RoverChallengeTests.csproj.CopyComplete
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallengeTests\obj\Debug\netcoreapp2.1\RoverChallengeTests.dll
+C:\Users\Rishi\source\repos\RoverChallenge\RoverChallengeTests\obj\Debug\netcoreapp2.1\RoverChallengeTests.pdb
